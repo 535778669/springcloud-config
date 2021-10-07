@@ -1,1 +1,2 @@
-12345
+config:
+  info: "master branch,Spring-Cloud-Config/config-dev.yml Version=1"
